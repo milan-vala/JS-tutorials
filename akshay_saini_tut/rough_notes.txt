@@ -1,0 +1,15 @@
+-> hoising is a phenomenon in javascript by which you can access variables and functions even before you have initialized it.
+
+-> temporal dead zone is the time since when let/const variable hoisted and till it is initialize some value. the time between that is known as temporal dead zone.
+
+-> when you are try to access variable inside a temporal dead zone it gives you a reference error. 
+
+---> take a look again-> shadowing
+
+-> closer
+	- closer is a function bundulled together with it's lexical environment(scope).
+	or closer is a function along with it's lexical scope forms a closer.
+
+
+-> the ability of functions to be used as values and can be passed as an argument to another functions
+and can be returned from the functions, this ability is known as first class functions.

@@ -11,3 +11,8 @@ console.log("typeof x is =>", typeof(x));
 let y = Number(x);
 console.log("y :- ", y);
 console.log("typeof y is =>", typeof(y));
+
+let a = "10e1"; // this is valid number
+console.log("a ->",typeof a);
+let aa = Number(a);
+console.log("aa ->", aa);
